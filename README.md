@@ -17,14 +17,6 @@ The controller was designed using **Verilog HDL** and verified through simulatio
 - **EDA Tools:** Cadence Virtuoso, ModelSim, Intel Quartus Prime
 - **Domain:** ASIC Design, Digital VLSI, Biomedical Electronics
 
-## Repository Contents
-```
-📁 docs/            → Project report and documentation
-📁 images/          → Block diagrams and architecture
-📁 simulation/      → Simulation results and waveforms
-📄 README.md        → Project overview
-```
-
 ## Applications
 - Biomedical Monitoring Systems
 - Medical Diagnostic Devices
